@@ -1,6 +1,6 @@
 import React from 'react';
 import greeksalad from '../images/greek salad.jpg'
-import bruchetta from '../images/bruchetta.svg'
+import bruchetta from '../images/bruchetta.jpeg'
 import lemondessert from '../images/lemon dessert.jpg'
 import '../styles/Specials.css'
 

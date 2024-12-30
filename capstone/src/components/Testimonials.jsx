@@ -49,7 +49,7 @@ export default function Testimonials() {
                 <p className="rating">5/5</p>
                 <div className="reviewer-name-image">
                     <img src={reviewer4} alt="reviewer4"/>
-                    <p>Jack Daneils</p>
+                    <p>Jack Daniels</p>
                 </div>
                 <div className="review-text">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa massa, 
