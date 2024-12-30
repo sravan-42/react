@@ -1,0 +1,26 @@
+.restaurant-story {
+    padding: 20px 70px;
+}
+
+.restaurant-story-article {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 0 0 2px #495f58;
+}
+
+.restaurant-story img {
+    width: 450px;
+}
+
+.restaurant-story .title {
+    font-size: 64px;
+    color: #000;
+    margin: 0;
+}
+
+.restaurant-story .subtitle {
+    font-size: 40px;
+    color: #555;
+    margin: 0;
+}
